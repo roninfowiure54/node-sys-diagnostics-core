@@ -16,3 +16,6 @@ Run: `node src/info.js`
 
 ---
 *Released under the MIT License by jocck96.*
+
+---
+*Released under the MIT License by roninfowiure54.*
